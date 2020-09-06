@@ -1,0 +1,8 @@
+name: keras-gradcam-demo
+dependencies:
+  - jupyter
+  - keras
+  - matplotlib
+  - requests
+  - scikit-image
+  - tensorflow

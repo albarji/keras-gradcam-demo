@@ -1,8 +1,8 @@
 name: keras-gradcam-demo
 dependencies:
-  - jupyter
-  - keras
-  - matplotlib
-  - requests
-  - scikit-image
-  - tensorflow
+  - jupyter=1.0.*
+  - keras=2.4.*
+  - matplotlib=3.3.*
+  - requests=2.24.*
+  - scikit-image=0.16.*
+  - tensorflow=2.2.*

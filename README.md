@@ -8,7 +8,7 @@
 
 -----------------
 
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/albarji/svm-playground/master?filepath=svmgui.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/albarji/keras-gradcam-demo/master?filepath=keras_gradcam_demo.ipynb)
 
 Notebook demo on how to use Keras to classify images with Xception net, and obtain visual explanations with Grad-CAM. Just use the binder link above to launch it!
 

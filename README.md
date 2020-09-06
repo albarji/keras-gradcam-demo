@@ -1,9 +1,9 @@
 # Keras Grad-CAM demo
 
 <div align="center">
-  <img src="img/timber_wolf.png" height="400">
-  <img src="img/platypus.png" height="400">
-  <img src="img/westie.png" height="400">
+  <img src="img/timber_wolf.png" height="200">
+  <img src="img/platypus.png" height="200">
+  <img src="img/westie.png" height="200">
 </div>
 
 -----------------
